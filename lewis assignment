@@ -1,0 +1,23 @@
+Explain the fundamental concepts of version control and why GitHub is a popular tool for managing versions of code. How does version control help in maintaining project integrity?
+
+Version control is a system that records changes to files over time, enabling users to track modifications, collaborate efficiently, and revert to previous versions when necessary. It is crucial for software development and document management. The two primary types of version control systems (VCS) are:
+Local Version Control – A simple approach where changes are stored in different versions on the local machine.
+Centralized Version Control (CVCS) – A single central repository stores all versions, and users access it over a network (e.g., Subversion, Perforce).
+Distributed Version Control (DVCS) – Each user has a complete copy of the repository, enabling offline work and better collaboration e.g., Git
+Why GitHub is Popular for Version Control
+GitHub is an online hosting service for Git repositories that enhances collaboration, project management, and version control. Its popularity stems from several advantages:
+
+Git-Based – Built on Git, the most widely used distributed version control system.
+Collaboration Features – Supports branching, merging, pull requests, and code reviews.
+Cloud Storage & Accessibility – Stores repositories online, allowing access from anywhere.
+Issue Tracking & Project Management – Helps track bugs, features, and tasks.
+Integration & Automation – Works with CI/CD pipelines, code editors, and third-party tools.
+Open Source & Community Support – Encourages code sharing, contributions, and knowledge exchange.
+How Version Control Maintains Project Integrity
+Tracking Changes – Maintains a history of edits, making it easy to identify who changed what and when.
+Reversibility – Allows rollback to previous versions in case of errors or unwanted changes.
+Branching & Merging – Developers can work on separate features in branches and merge changes without disrupting the main codebase.
+Collaboration Without Conflicts – Multiple developers can work simultaneously while minimizing conflicts.
+Backup & Redundancy – Distributed repositories ensure data is not lost due to a single failure.
+Security & Access Control – Permissions can restrict who can modify critical files.
+By using GitHub and version control, teams ensure that their projects remain organized, error-free, and efficiently managed throughout development
